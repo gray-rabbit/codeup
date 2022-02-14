@@ -1,8 +1,9 @@
 #include <cstdio>
+#include <iostream>
 
-int main()
-{
-  printf("hello world");
+using namespace std;
+
+int main() {
+  cout << "test";
   return 0;
-  
 }
